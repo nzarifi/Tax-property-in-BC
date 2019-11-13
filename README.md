@@ -1,0 +1,2 @@
+# Tax-property-in-BC
+This dataset is free and available to everyone from the official BC government website (https://data.vancouver.ca/datacatalogue/propertyTax.htm). The data is updated in the normal course of business, however priorities and resources determine how fast a change, in reality, is reflected in the database. Please note that the property tax data for the current year is updated weekly and for this project the data was downloaded on June 8, 2019. The dataset contains over 209000 observations and 28 attributes
